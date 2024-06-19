@@ -1,6 +1,6 @@
 # Hello! <img src="https://github.com/MichaelGatuma/MichaelGatuma/blob/main/wave.gif" width="30px"> Welcome to Narnia,
 
-<a href=#><img src="gitsnake.svg"></a>
+<a href=#><img src="download.jfif"></a>
 
 ```sh
 ~ $ export CODE=254
