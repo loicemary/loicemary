@@ -20,7 +20,7 @@
 # The keys to cair paravel got ate but you will be just fine here :)
 
 <p align="center">
-    Javascript, Photoshop, Wordpress, DevOps
+    Javascript, React, Typescript, Adobe AI, Adobe Ps, Wordpress, DevOps
 </p>
 
 <p align="center">    
