@@ -1,4 +1,4 @@
-# Hello! <img src="https://github.com/MichaelGatuma/MichaelGatuma/blob/main/wave.gif" width="30px"> Welcome to my HUB,
+# Hello! <img src="wave.gif" width="30px"> Welcome to my HUB,
 
 <a href=#><img src="download.gif" style="height: 25vh; width: 120vh; "></a>
 
@@ -8,7 +8,7 @@
 ~ $ whoami
     lectron
 ~ $ about
-    Hello, my name is loicemary, a web developer from Nairobi, Kenya.
+    Hello, my name is Loicemary, a web developer from Nairobi, Kenya.
     Welcome and feel free to check out my public repos.
     My email address is loicemary32@gmail.com, phone +($CODE) $PREFIX 745890
 ~ $ social -a
@@ -17,10 +17,9 @@
 ~ $ sudo rm -rf
     
 ```
-# The keys to cair paravel got ate but you will be just fine here :)
 
 <p align="center">
-    Javascript, React, Typescript, Adobe AI, Adobe Ps, Wordpress, DevOps
+    Javascript, WWX, React, Typescript, Adobe AI, Adobe Ps, Wordpress, DevOps
 </p>
 
 <p align="center">    
